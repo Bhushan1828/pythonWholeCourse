@@ -1,0 +1,5 @@
+print("Namstey India")
+print("*")
+print("**")
+print("***")
+print("****")
