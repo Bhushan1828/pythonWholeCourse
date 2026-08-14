@@ -33,3 +33,6 @@ print(dir(username))
 
 myList = [123, "bhushan", 3.442]
 print(myList)
+#dictionary
+myD = {'one':'Lemon tea', 'two':'ginger tea', 'three':'black tea'}
+print(myD)
