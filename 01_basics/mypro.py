@@ -36,3 +36,14 @@ print(myList)
 #dictionary
 myD = {'one':'Lemon tea', 'two':'ginger tea', 'three':'black tea'}
 print(myD)
+l1 = [ 1, 2, 3, 4]
+l2 = l1
+print(l2)
+l1[0] = 838
+print(l2)
+
+h2 = l1[:]
+print(h2)
+
+#import copy 
+#h2 = copy.deepcopy(h1)
